@@ -60,7 +60,7 @@ The clustering results helped in identifying different customer segments, which 
 - Improving customer satisfaction
 - Enhancing business decision-making
 
-![Scatter Plot Output](K-means output.png)
+![Scatter Plot Output](https://github.com/U-Jayadhar/PRODIGY_ML_02/blob/main/K-means%20output.png)
 
 ## Acknowledgements
 This project is based on the [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data) dataset on Kaggle.
